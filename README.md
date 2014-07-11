@@ -7,9 +7,7 @@ In the **code** folder of this project, you will notice **EyeTribe.jar**.
 
 Here is how to make the .jar file yourself. 
 
-1. Get the latest version of tet-java-client here:
-
-https://github.com/EyeTribe/tet-java-client
+1. Get the latest version of tet-java-client [here](https://github.com/EyeTribe/tet-java-client).
 
 2. Open Eclipse, and create a Java Project called EyeTribe. 
 
