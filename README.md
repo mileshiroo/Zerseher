@@ -1,7 +1,7 @@
 Zerseher
 ========
 
-*Remake of "Zerseher" by Joachim Sauter in Processing, using the Eye Tribe tracker.*
+*Remake of "Zerseher" by Joachim Sauter in Processing, using the Eye Tribe tracker. See a video of the 1992 original [here](https://www.youtube.com/watch?v=Gq79PW4hIGw).*
 
 In the **code** folder of this project, you will notice **EyeTribe.jar**. 
 
@@ -13,4 +13,4 @@ In the **code** folder of this project, you will notice **EyeTribe.jar**.
 
 3. Copy the contents of tet-java-client to the EyeTribe directory in your Eclipse workspace folder. 
 
-4. In Eclipse, export the project as a .jar by going to File -> Export, and choosing **JAR file** in the Java folder. 
+4. In Eclipse, export the project as a .jar by going to File -> Export, and choosing **JAR file** from the Java dropdown. 
