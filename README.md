@@ -1,11 +1,11 @@
 Zerseher
 ========
 
-Remake of "Zerseher" by Joachim Sauter in Processing, using the Eye Tribe tracker.
+*Remake of "Zerseher" by Joachim Sauter in Processing, using the Eye Tribe tracker.*
 
 In the **code** folder of this project, you will notice **EyeTribe.jar**. 
 
-##Here is how to make EyeTribe.jar yourself. 
+###To make EyeTribe.jar yourself: 
 
 1. Get the latest version of tet-java-client [here](https://github.com/EyeTribe/tet-java-client).
 
